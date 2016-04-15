@@ -42,7 +42,7 @@ body {
 }
 
 a {
-    color: #EAC738;
+    color: #39BEEA;
 }
 
 a:focus {
@@ -58,7 +58,7 @@ a:hover {
 }
 
 a.icon:hover, a.icon:focus {
-    color: #EAC738 !important;
+    color: #39BEEA !important;
 }
 
 h1, h2, h3 {
@@ -431,7 +431,7 @@ nav .active a {
 }
 
 .logo span {
-    color: #EAC738;
+    color: #39BEEA;
 }
 
 .page-section {
@@ -928,7 +928,7 @@ body
 }
 
 a {
-  color: #EAC738;
+  color: #39BEEA;
   text-decoration: none;
 }
 
@@ -971,18 +971,18 @@ h2 img
 }
 
 #listing article h2 a{
-    color: #EAC738;
+    color: #39BEEA;
 }
 
 #listing article h2 a{
     /*color: #aaa;*/
-    color: #EAC738;
+    color: #39BEEA;
 
     text-decoration: none;
 }
 
 #listing article:hover h2 a{
-    color: #EAC738;
+    color: #39BEEA;
     text-decoration: none;
 }
 
