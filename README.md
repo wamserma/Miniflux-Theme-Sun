@@ -1,5 +1,5 @@
 # Miniflux-Theme-Sun
 
-Changes to the original Midnight theme to be more readable (for me!)
+Building on the shoulders of giants. :) Small changes to @Cygnusfear's take on the Sun-Theme.
 
 ![Preview](/preview.png?raw=true "Sun Preview")
