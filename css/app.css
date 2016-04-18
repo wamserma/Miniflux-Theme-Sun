@@ -492,7 +492,7 @@ nav .active a {
 
 .items article[data-feed-error] .feed-parsing-error {
     visibility: visible;
-    color: #000;
+    color: #b94a48;
     font-size: 0.7em;
     font-weight: normal;
 }
